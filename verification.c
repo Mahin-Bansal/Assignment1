@@ -19,7 +19,4 @@ S_8 = S_8 + a + (i)*d;
 //This for loop gives a + a+d + a+2*d  + a+3*d  + .... + a+7*d
 printf("The sum of A.P till 8th term is %d" , S_8);
 
-
-
-
 }
